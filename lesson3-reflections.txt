@@ -1,1 +1,6 @@
 Reflection on what is being learnt on lesson 3
+
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+Whenever the code is ready for others to use
